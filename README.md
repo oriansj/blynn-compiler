@@ -49,7 +49,7 @@ minimal seed.
 
 ## How to help
 The bootstrapping project is alive and healthy, come chat with us over
-at `#bootstrappable` on Freenode!  If you know any of C, assembly,
+at `#bootstrappable` on libera.chat  If you know any of C, assembly,
 Scheme, or Haskell, or develop on *any* OS on *any* instruction set
 (the more diverse the bootstrap is, the better), we'd love to hear
 your ideas and criticism.
